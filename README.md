@@ -1,6 +1,12 @@
 # PyKar
 Simple karyotyping tool in python/opencv
 
+How to use:
+
+$python main.py -i image_name
+
+## Notes ##
+
 Problem description:
   1. Resolving overlaps
       To separate overlapping chromosomes while retaining maximum resolution.
@@ -23,12 +29,14 @@ Problem description:
             
   2. Feature extraction
       Identify chromsomes based on other characteristics when sizes are roughly similar. 
-        Identify banding pattern(?)
-          How to recognize dark and light pixels of a foreground object?
+        
+          Identify banding pattern(?)
+           How to recognize dark and light pixels of a foreground object?
           
-        Identify centromere position (?)
-          What makes centromere different from other regions of a chromosome in an image?
+         Identify centromere position (?)
+           What makes centromere different from other regions of a chromosome in an image?
         
   3. Visualizing 
       Show all the chromosomes and allow user to rotate, switch and label/annotate according their analysis
-        #Should learn how to do this
+      
+           Where to start?
