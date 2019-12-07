@@ -1,9 +1,10 @@
 # PyKar
 Simple karyotyping tool in python/opencv
 
-How to use:
+## How to use:##
+Just call the script in python using image flag
 
-$python main.py -i image_name
+    $python main.py -i image_name
 
 ## Notes ##
 
