@@ -7,7 +7,6 @@ Just call the script in python using image flag
     $python main.py -i image_name
 
 ## Notes ##
-
 Problem description:
   1. Resolving overlaps
       To separate overlapping chromosomes while retaining maximum resolution.
@@ -40,5 +39,5 @@ Problem description:
   3. Visualizing 
       Show all the chromosomes and allow user to rotate, switch and label/annotate according their analysis
       
-           Possibly make a small interface with tk OR qt (To-do on Monday)
+           Possibly make a small interface with tk OR qt (Maybe there is a better alternative).
            
