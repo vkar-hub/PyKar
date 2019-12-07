@@ -40,4 +40,5 @@ Problem description:
   3. Visualizing 
       Show all the chromosomes and allow user to rotate, switch and label/annotate according their analysis
       
-           Where to start?
+           Possibly make a small interface with tk OR qt (To-do on Monday)
+           
